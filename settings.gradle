@@ -1,0 +1,2 @@
+rootProject.name='Recycler View Lab'
+include ':app'
